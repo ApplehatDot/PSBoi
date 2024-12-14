@@ -9,6 +9,8 @@ Based off this image:
 
 it can test a basic 2D performance of your retro machine or _your potato PC_
 
+... So you could call it a *"The funniest utility for checking CPU performance"*
+
 Project can be compiled in Linux since it dosen't use any Windows-specific libraries.
 This Project is distributed under **MEGC Projects License**
 
