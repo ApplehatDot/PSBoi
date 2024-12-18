@@ -18,6 +18,8 @@ void RenderText(GWMConfig* GWM, const char* text) {
 }
 
 void MakeWindow(GWMConfig* GWM, WindowPosition* WP) {
+
+    glColor3f(0.0f/255.0f, 0.0f/255.0f, 0.0f/255.0f);
 	
     glBegin(GL_LINES);
         // Linia dolna
