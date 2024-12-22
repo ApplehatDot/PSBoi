@@ -17,4 +17,6 @@ This Project is distributed under **MEGC Projects License**
 Previews:
 <div align=center>
   <image src="Photos/Preview.png" width=400>
+  <image src="Photos/PSBoi2.png" width=1200>
+    
 </div>
