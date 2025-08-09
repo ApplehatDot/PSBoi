@@ -1,5 +1,5 @@
 # PSBoi
-PSBoi - MEGC #5 Project with a funny guy just goin down with a parachute.
+PSBoi - MEGC #5 a hybrid 2/3D Project with a funny guy just goin down with a parachute.
 Based off this image:
 
 <div align=center>
@@ -7,13 +7,12 @@ Based off this image:
 </div>
 
 
-it can test a basic 2D performance of your retro machine or _your potato PC_
-
-... So you could call it a *"The funniest utility for checking CPU performance"*
-
-Project can be compiled in Linux since it dosen't use any Windows-specific libraries.
-This Project is distributed under **MEGC Projects License**
-
+it can test a basic 2D performance of your retro machine or _your potato PC_<br>
+... So you could call it a *"The funniest utility for checking CPU performance"*<br>
+<br>
+Project can be compiled in Linux since it dosen't use any Windows-specific libraries.<br>
+This Project is distributed under **MEGC Projects License**<br>
+<br><br>
 Previews:
 <div align=center>
   <image src="Photos/Preview.png" width=400>
